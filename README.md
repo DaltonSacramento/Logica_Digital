@@ -1,1 +1,1 @@
-# Logica_Digital
+# Logica Digital
